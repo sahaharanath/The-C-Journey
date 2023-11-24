@@ -1,5 +1,3 @@
-// C Program to determine the day of the week based on user input (using switch case)
-
 #include <stdio.h>
 
 int main() {
