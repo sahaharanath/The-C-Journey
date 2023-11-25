@@ -8,7 +8,7 @@ int main (){
     int difference=2;
     int a=1; //helping variable
 
-    for (int i=1;i<=n;i++){ // for(int i=1;i<=last_term;i=i+2)
+    for (int i=1;i<=n;i++){ // for(int i=1;i<=n;i++)
       printf ("%d ",a);
       a=a+2;
     }
