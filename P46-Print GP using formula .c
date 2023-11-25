@@ -15,7 +15,7 @@ int main (){
     int last_term = first_term*pow(difference,(n-1));
 
     // Loop to print the terms of the GP
-    for (int i=first_term;i<=last_term;i=i*difference){ // for(int i=1;i<=last_term;i=i+2)
+    for (int i=first_term;i<=last_term;i=i*difference){ // for(int i=1;i<=last_term;i=i*2)
         printf ("%d ",i);
     }
 
