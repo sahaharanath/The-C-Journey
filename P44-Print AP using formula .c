@@ -6,7 +6,7 @@ int main (){
     printf ("Enter n to print the AP upto nth terms : ");
     scanf("%d",&n);
 
-    // Initialize variables for the first term, common difference, and last term
+    // Initialize variables for the first term, common difference, and last term.
     int first_term=1;
     int difference=2;
 
