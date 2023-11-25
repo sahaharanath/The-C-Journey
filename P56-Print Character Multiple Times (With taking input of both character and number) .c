@@ -6,7 +6,7 @@ int main () {
     scanf ("%c", &ch);
 
     int n;
-    printf("Enter how many times do you want to print %c: ",ch);
+    printf("Enter how many times do you want to print '%c' : ",ch);
     scanf ("%d", &n);
 
     for (int i=1;i<=n;i++){
